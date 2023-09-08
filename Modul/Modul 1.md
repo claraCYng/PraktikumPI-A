@@ -14,7 +14,7 @@ MongoDB berhasil terinstal ditandai dengan MongoDB Compass yang terbuka otomatis
 
 ## 4. Menginstal Lumen
 ### a. Lumen terinstal
-![img1](screenshot/mongo.png)
+![img1](screenshot/lumenapi.png)
 ![img1](screenshot/direktori.png)
 Sebelumnya Lumen telah terinstal dan tersimpan pada direktori seperti gambar di atas
 ### b. Menjalankan server lumen
