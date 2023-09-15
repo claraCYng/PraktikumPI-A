@@ -31,12 +31,31 @@ Menghapus buku "I Am a Cat"
 
 ## MongoDB Shell
 ### Langkah 1
+![img1](../screenshot/1a.png)
+
 ### Langkah 2
+![img1](../screenshot/2a.png)
+
 ### Langkah 3
+![img1](../screenshot/3a.png)
+
 ### Langkah 4
+![img1](../screenshot/4a.png)
+
 ### Langkah 5
+![img1](../screenshot/5a.png)
+
 ### Langkah 6
+![img1](../screenshot/6a.png)
+
 ### Langkah 7
+![img1](../screenshot/7a.png)
+
 ### Langkah 8
+![img1](../screenshot/8a.png)
+
 ### Langkah 9
+![img1](../screenshot/9a.png)
+
 ### Langkah 10
+![img1](../screenshot/10.png)
