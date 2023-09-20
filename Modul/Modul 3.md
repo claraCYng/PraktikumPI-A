@@ -3,7 +3,7 @@
 ## Percobaan Instalasi NodeJs
 * ### Langkah 1
 > lorem ipsum
-![img1](../screenshot/1.png)
+![img1](../screenshot/3-1.png)
 * ### Langkah 2
 > lorem ipsum
 ![img1](../screenshot/1.png)
