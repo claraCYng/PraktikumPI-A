@@ -62,17 +62,17 @@
 
 ## Operasi CRUD
 * ### Langkah 1
-> lorem ipsum
-![img1](../screenshot/1.png)
+> Menghapus data pada books colection
+![img1](../screenshot/3-1g.png)
 * ### Langkah 2
-> lorem ipsum
-![img1](../screenshot/1.png)
+> Import book.model.js pada file book.controller.js, sehingga terdapat penambahan kode seperti di bawah:
+![img1](../screenshot/3-2g.png)
 * ### Langkah 3
-> lorem ipsum
-![img1](../screenshot/1.png)
+> Mengubah fungsi create book
+![img1](../screenshot/3-3g.png)
 * ### Langkah 4
-> lorem ipsum
-![img1](../screenshot/1.png)
+> Menambah daftar buku di Postman dengan data seperti di bawah:
+![img1](../screenshot/3-4g.png)
 * ### Langkah 5
 > lorem ipsum
 ![img1](../screenshot/1.png)
