@@ -74,26 +74,26 @@
 > Menambah daftar buku di Postman dengan data seperti di bawah:
 ![img1](../screenshot/3-4g.png)
 * ### Langkah 5
-> lorem ipsum
-![img1](../screenshot/1.png)
+> Melakukan perubahan pada fungsi getAllBooks
+![img1](../screenshot/3-5g.png)
 * ### Langkah 6
-> lorem ipsum
-![img1](../screenshot/1.png)
+> Melakukan perubahan pada fungsi getOneBooks
+![img1](../screenshot/3-6g.png)
 * ### Langkah 7
 > lorem ipsum
-![img1](../screenshot/1.png)
+![img1](../screenshot/3-.png)
 * ### Langkah 8
 > lorem ipsum
-![img1](../screenshot/1.png)
+![img1](../screenshot/3-.png)
 * ### Langkah 9
-> lorem ipsum
-![img1](../screenshot/1.png)
+> Melakukan perubahan pada fungsi updateBook
+![img1](../screenshot/3-9g.png)
 * ### Langkah 10
 > lorem ipsum
-![img1](../screenshot/1.png)
+![img1](../screenshot/3-.png)
 * ### Langkah 11
-> lorem ipsum
-![img1](../screenshot/1.png)
+> Melakukan perubahan pada fungsi deleteBook
+![img1](../screenshot/3-11g.png)
 * ### Langkah 12
 > lorem ipsum
-![img1](../screenshot/1.png)
+![img1](../screenshot/3-.png)
