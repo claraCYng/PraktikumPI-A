@@ -96,5 +96,5 @@
 > Melakukan perubahan pada fungsi deleteBook
 ![img1](../screenshot/3-11g.png)
 * ### Langkah 12
-> lorem ipsum
+> Menghapus buku Dilan 1990 dengan DELETE di Postman
 ![img1](../screenshot/3-12g.png)
