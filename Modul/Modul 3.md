@@ -73,6 +73,7 @@
 * ### Langkah 4
 > Menambah daftar buku di Postman dengan data seperti di bawah:
 ![img1](../screenshot/3-4g.png)
+![img1](../screenshot/3-4g2.png)
 * ### Langkah 5
 > Melakukan perubahan pada fungsi getAllBooks
 ![img1](../screenshot/3-5g.png)
@@ -80,20 +81,20 @@
 > Melakukan perubahan pada fungsi getOneBooks
 ![img1](../screenshot/3-6g.png)
 * ### Langkah 7
-> lorem ipsum
-![img1](../screenshot/3-.png)
+> Menampilkan semua buku yang telah ditambahkan sebelumnya
+![img1](../screenshot/3-7g.png)
 * ### Langkah 8
-> lorem ipsum
-![img1](../screenshot/3-.png)
+> Menampilkan buku Dilan 1990 dengan id "6513917e4ad6f77a40e4df70"
+![img1](../screenshot/3-8g.png)
 * ### Langkah 9
 > Melakukan perubahan pada fungsi updateBook
 ![img1](../screenshot/3-9g.png)
 * ### Langkah 10
-> lorem ipsum
-![img1](../screenshot/3-.png)
+> Mengubah judul buku DIlan 1991 dengan ID "651392164ad6f77a40e4df72" menjadi nama panggilan
+![img1](../screenshot/3-10g.png)
 * ### Langkah 11
 > Melakukan perubahan pada fungsi deleteBook
 ![img1](../screenshot/3-11g.png)
 * ### Langkah 12
 > lorem ipsum
-![img1](../screenshot/3-.png)
+![img1](../screenshot/3-12.png)
