@@ -1,28 +1,26 @@
 # Praktikum Modul 4 - Basic Routing & Migration
 
-## Percobaan Instalasi NodeJs
+## Get
 * ### Langkah 1
-> Mengunjungi halaman https://nodejs.org/en/
-![img1](../screenshot/3-1.png)
+> Menambahkan kode berikut pada akhir baris di file web.php yang terletak di folder routes. Setelah disimpan, jalankan server PHP dengan perintah "php -S localhost:8000 -t public"
+![img1](../screenshot/4-1a.png)
 * ### Langkah 2
-> Download dan instal NodeJS, di sini saya menggunakan versi 20.7.0
-![img1](../screenshot/3-2.png)
-* ### Langkah 3
-> Instalasi berhasil dan melakukan pengecekan versi
-![img1](../screenshot/3-3.png)
+> Setelah server berjalan, buka URL http://localhost:8000/get. Maka browser akan menampilkan pesan "GET" seperti yang telah ditambahkan pada file web.php sebelumnya.
+![img1](../screenshot/4-1a2.png)
 
-## Inisiasi project Express dan pemasangan package
+## POST, PUT, PATCH, DELETE, dan OPTIONS
 * ### Langkah 1
-> Membuat folder express-mongodb
-![img1](../screenshot/3-1b.png)
+> Menambahkan methode POST, PUT, PATCH, DELETE, dan OPTIONS di file web.php
+![img1](../screenshot/4-1b.png)
 * ### Langkah 2
-> Melakukan npm init untuk mengenerate file package.json
-![img1](../screenshot/3-2b.png)
-* ### Langkah 3
-> Menginstal express, mongoose, dan dotenv
-![img1](../screenshot/3-3b.png)
+> Menginstal ekstensi Thunder Client di VSCode. Setelah diinstal, melakukan request ke URL berdasarkan methodenya
+![img1](../screenshot/4-1bput.png)
+![img1](../screenshot/4-1bpost.png)
+![img1](../screenshot/4-1bpatch.png)
+![img1](../screenshot/4-1bdel.png)
+![img1](../screenshot/4-1bopt.png)
 
-## Koneksi Express ke MongoDB
+## Migrasi Database
 * ### Langkah 1
 > Membuat file index.js
 ![img1](../screenshot/3-1c.png)
