@@ -97,4 +97,4 @@
 ![img1](../screenshot/3-11g.png)
 * ### Langkah 12
 > lorem ipsum
-![img1](../screenshot/3-12.png)
+![img1](../screenshot/3-12g.png)
