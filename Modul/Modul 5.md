@@ -20,8 +20,7 @@
 * ### Middleware
 > Membuka file middleware
 ![img1](../screenshot/5-d.png)
-> Menyalin file ExampleMiddleware.php dan memberi nama "AgeMiddleware.php"
-![img1](../screenshot/5-4b.png)
+> Menyalin file ExampleMiddleware.php dan memberi nama "AgeMiddleware.php", hingga dalam file berisi seperti berikut
 ![img1](../screenshot/5-4c.png)
 
 > Mendaftarkan middleware Age pada file app.php
