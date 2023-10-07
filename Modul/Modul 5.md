@@ -7,7 +7,6 @@
 ![img1](../screenshot/5-1b.png)
 ![img1](../screenshot/5-1c.png)
 
-
 * ### Aliases Route
 > Menambahkan aliases route
 ![img1](../screenshot/5-2.png)
@@ -36,3 +35,5 @@
 
 > Mengakses "localhost:8000/admin/home" sehingga akan muncul pesan berikut
 ![img1](../screenshot/5-4f.png)
+
+
