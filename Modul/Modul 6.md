@@ -10,39 +10,45 @@
 
 ## Controller
 * ### Langkah 1
-> Menambahkan methode POST, PUT, PATCH, DELETE, dan OPTIONS di file web.php
-![img1](../screenshot/4-1b.png)
+> Membuat salinan ExampleController.php dan memberi nama salinan HomeController.php. Pada HomeController.php dibuat fungsi index() seperti berikut:
+![img1](../screenshot/6-1b.png)
 * ### Langkah 2
-> Menginstal ekstensi Thunder Client di VSCode. Setelah diinstal, melakukan request ke URL berdasarkan methodenya
-![img1](../screenshot/4-1bput.png)
-![img1](../screenshot/4-1bpost.png)
-![img1](../screenshot/4-1bpatch.png)
-![img1](../screenshot/4-1bdel.png)
-![img1](../screenshot/4-1bopt.png)
+> Mengubah route pada file web.php sehingga menjadi seperti berikut:
+![img1](../screenshot/6-2b.png)
+* ### Langkah 3
+> Menjalankan aplikasi dengan php -S localhost:8000 -t public. Saat aplikasi dijalankan, maka web browser akan mengeluarkan pesan berikut
+![img1](../screenshot/6-3b.png)
 
 ## Request Handler
 * ### Langkah 1
-> Membuat database lumenapi
-![img1](../screenshot/4-1c.png)
-> Mengubah konfigurasi database pada file .env
-![img1](../screenshot/4-1c2.png)
+> Melakukan import library Request dan melakukan perubahan fungsi index() pada HomeController.php
+![img1](../screenshot/6-1c2.png)
 * ### Langkah 2
-> Menghapus komen baris berikut di file app.php sehingga kode aktif, seperti di gambar
-![img1](../screenshot/4-1c3.png)
-* ### Langkah 3
-> Menjalankan perintah berikut di terminal
-![img1](../screenshot/4-1c4.png)
-> Sehingga dihasilkan file berikut
-![img1](../screenshot/4-1c4b.png)
+> Menjalankan aplikasi
+![img1](../screenshot/6-2c.png)
 
 ## Response Handler
 * ### Langkah 1
-> Membuat database lumenapi
-![img1](../screenshot/4-1c.png)
-> Mengubah konfigurasi database pada file .env
+> Melakukan import library Response di HomeController.php
+![img1](../screenshot/6-1d.png)
+* ### Langkah 2
+> Membuat fungsi Hello(), sehingga keseluruhan code menjadi seperti berikut:
+![img1](../screenshot/6-2d.png)
+* ### Langkah 3
+> Menambahkan route hello pada web.php
+![img1](../screenshot/6-3d.png)
+* ### Langkah 4
+> Menjalankan aplikasi pada route hello
+![img1](../screenshot/6-4d.png)
 
 ## Penerapan
 * ### Langkah 1
-> Membuat database lumenapi
-![img1](../screenshot/4-1c.png)
-> Mengubah konfigurasi database pada file .env
+> Melakukan import Model Users pada bagian atas HomeController.php
+![img1](../screenshot/6-1e.png)
+* ### Langkah 2
+> Menambahkan 3 fungsi baru di HomeController.php
+![img1](../screenshot/6-2e.png)
+* ### Langkah 3
+> Menambahkan 3 route baru di web.php
+![img1](../screenshot/6-3e.png)
+
