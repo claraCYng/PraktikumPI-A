@@ -2,11 +2,8 @@
 
 ## Model
 * ### Langkah 1
-> Menambahkan kode berikut pada akhir baris di file web.php yang terletak di folder routes. Setelah disimpan, jalankan server PHP dengan perintah "php -S localhost:8000 -t public"
-![img1](../screenshot/4-1a.png)
-* ### Langkah 2
-> Setelah server berjalan, buka URL http://localhost:8000/get. Maka browser akan menampilkan pesan "GET" seperti yang telah ditambahkan pada file web.php sebelumnya.
-![img1](../screenshot/4-1a2.png)
+> Membuat model User.php menggunakan php artisan make:model User. Setelah model dibuat, hapus kode sebelumnya dan ganti menjadi seperti berikut:
+![img1](../screenshot/6-2.png)
 
 ## Controller
 * ### Langkah 1
