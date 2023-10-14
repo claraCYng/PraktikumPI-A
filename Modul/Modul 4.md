@@ -40,7 +40,9 @@
 * ### Langkah 5
 > > Mengubah code pada fungsi up() di create_product_table
 ![img1](../screenshot/4-1c6.png)
-* ### Langkah 5
+* ### Langkah 6
 > > Mengubah perintah php artisan migrate di terminal
-![img1](../screenshot/4-1c7.png)
+![img1](../screenshot/4rev1.png)
+> > Berikut tampilannya di phpMyAdmin
+![img1](../screenshot/4rev2.png)
 
