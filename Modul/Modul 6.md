@@ -49,7 +49,8 @@ Menambahkan 3 fungsi baru di HomeController.php
 Menambahkan 3 route baru di web.php
 ![img1](../screenshot/6-3e.png)
 * ### Langkah 4
-Menjalankan aplikasi melalui postman
+Menjalankan aplikasi berdasarkan yang telah diatur pada web.php melalui postman
+
 route users/default (POST)
 ![img1](../screenshot/6-4e1.png)
 
