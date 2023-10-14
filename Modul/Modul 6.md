@@ -48,4 +48,11 @@ Melakukan import Model Users pada bagian atas HomeController.php
 * ### Langkah 3
 > Menambahkan 3 route baru di web.php
 ![img1](../screenshot/6-3e.png)
+* ### Langkah 4
+> Menjalankan aplikasi melalui postman
+route users/default (POST)
+![img1](../screenshot/6-4e1.png)
+
+route users/all (GET)
+![img1](../screenshot/6-4e2.png)
 
