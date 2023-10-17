@@ -43,13 +43,14 @@ Menjalankan aplikasi pada route hello
 Melakukan import Model Users pada bagian atas HomeController.php
 ![img1](../screenshot/6-1e.png)
 * ### Langkah 2
-> Menambahkan 3 fungsi baru di HomeController.php
+Menambahkan 3 fungsi baru di HomeController.php
 ![img1](../screenshot/6-2e.png)
 * ### Langkah 3
-> Menambahkan 3 route baru di web.php
+Menambahkan 3 route baru di web.php
 ![img1](../screenshot/6-3e.png)
 * ### Langkah 4
-> Menjalankan aplikasi melalui postman
+Menjalankan aplikasi berdasarkan yang telah diatur pada web.php melalui postman
+
 route users/default (POST)
 ![img1](../screenshot/6-4e1.png)
 
