@@ -28,6 +28,7 @@ Mengubah fungsi up() di migrasi create_post_tag_table
 * ### Langkah 9
 Menjalankan command php artisan migrate
 ![img1](../screenshot/7-9.png)
+
 Ini tampilan di phpMyAdmin
 ![img1](../screenshot/7-92.png)
 
