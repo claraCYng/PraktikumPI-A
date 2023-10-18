@@ -35,14 +35,14 @@ Ini tampilan di phpMyAdmin
 
 ## Pembuatan Model
 * ### Langkah 1
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Membuat file di folder model dengan nama Post.php
+![img1](../screenshot/7-1b.png)
 * ### Langkah 2
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Membuat file di folder model dengan nama Comment.php
+![img1](../screenshot/7-2b.png)
 * ### Langkah 3
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Membuat file di folder model dengan nama Tag.php
+![img1](../screenshot/7-3b.png)
 
 ## Relasi one to many
 * ### Langkah 1
