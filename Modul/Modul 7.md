@@ -81,14 +81,14 @@ Menambahkan fungsi posts() di Tag.php
 Membuat file TagController.php
 ![img1](../screenshot/7-3d.png)
 * ### Langkah 4
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menambahkan fungsi addTag() dan response() di PostController.php
+![img1](../screenshot/7-4d.png)
 * ### Langkah 5
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menambahkan route baru di web.php
+![img1](../screenshot/7-5d.png)
 * ### Langkah 6
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Membuat satu tag di Postman dengan route /tags
+![img1](../screenshot/7-6d.png)
 * ### Langkah 7
 Lorem ipsum
 ![img1](../screenshot/6-2.png)
@@ -96,14 +96,14 @@ Lorem ipsum
 Lorem ipsum
 ![img1](../screenshot/6-2.png)
 * ### Langkah 9
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Membuat postingan di postman
+![img1](../screenshot/7-9d.png)
 * ### Langkah 10
 Lorem ipsum
 ![img1](../screenshot/6-2.png)
 * ### Langkah 11
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Membuat tag "lagu" di postman
+![img1](../screenshot/7-11d.png)
 * ### Langkah 12
 Lorem ipsum
 ![img1](../screenshot/6-2.png)
