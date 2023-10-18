@@ -46,40 +46,40 @@ Membuat file di folder model dengan nama Tag.php
 
 ## Relasi one to many
 * ### Langkah 1
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menambahkan fungsi comment() di file Post.php
+![img1](../screenshot/7-1c.png)
 * ### Langkah 2
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menambhakan fungsi post() dan atribut postId pada fillable di file Post.php
+![img1](../screenshot/7-2c.png)
 * ### Langkah 3
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Membuat file PostController.php di folder controller
+![img1](../screenshot/7-3c.png)
 * ### Langkah 4
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Membuat file CommentController.php di folder controller
+![img1](../screenshot/7-4c.png)
 * ### Langkah 5
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menambahkan route baru di web.php
+![img1](../screenshot/7-5c.png)
 * ### Langkah 6
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Mengisi value dari content dengan "disana engkau berdua" dan melakukan post di postman
+![img1](../screenshot/7-6c.png)
 * ### Langkah 7
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Membuat komen dan melakukan post di route /comments
+![img1](../screenshot/7-7c.png)
 * ### Langkah 8
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menampilkan post dengan id 1 di postman
+![img1](../screenshot/7-8c.png)
 
 ## Relasi many to many
 * ### Langkah 1
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menambahkan fungsi tags() di Post.php
+![img1](../screenshot/7-1d.png)
 * ### Langkah 2
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menambahkan fungsi posts() di Tag.php
+![img1](../screenshot/7-2d.png)
 * ### Langkah 3
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Membuat file TagController.php
+![img1](../screenshot/7-3d.png)
 * ### Langkah 4
 Lorem ipsum
 ![img1](../screenshot/6-2.png)
