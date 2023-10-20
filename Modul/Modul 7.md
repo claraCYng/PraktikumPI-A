@@ -90,26 +90,26 @@ Menambahkan route baru di web.php
 Membuat satu tag di Postman dengan route /tags
 ![img1](../screenshot/7-6d.png)
 * ### Langkah 7
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menambahkan tag ke Post
+![img1](../screenshot/7-7d.png)
 * ### Langkah 8
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menampilkan Post
+![img1](../screenshot/7-8d.png)
 * ### Langkah 9
 Membuat postingan di postman
 ![img1](../screenshot/7-9d.png)
 * ### Langkah 10
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menambahkan tag dengan id 1 ke Post dengan id 2
+![img1](../screenshot/7-10d.png)
 * ### Langkah 11
 Membuat tag "lagu" di postman
 ![img1](../screenshot/7-11d.png)
 * ### Langkah 12
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menambahkan tag "lagu" ke post dengan id 2
+![img1](../screenshot/7-12d.png)
 * ### Langkah 13
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menampilkan Post pertama
+![img1](../screenshot/7-13d.png)
 * ### Langkah 14
-Lorem ipsum
-![img1](../screenshot/6-2.png)
+Menampilkan Post kedua
+![img1](../screenshot/7-14d.png)
